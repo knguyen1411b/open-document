@@ -66,6 +66,16 @@ If you update the source data, re-encode it to `data/data.enc` before running/bu
 > [!IMPORTANT]
 > Do not rely on raw JSON files at runtime. Keep encoded data in sync before release.
 
+## Screenshots
+
+### Home
+
+![Home page demo](./features/home/page.png)
+
+### Documents
+
+![Documents page demo](./features/documents/page.png)
+
 ## Code Quality
 
 ```bash
